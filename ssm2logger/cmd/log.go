@@ -25,7 +25,7 @@ import (
 	"syscall"
 	"time"
 
-	. "github.com/rgeyer/ssm2logger/ssm2lib"
+	. "github.com/matthewtoye/go-ssm2logger/ssm2lib"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

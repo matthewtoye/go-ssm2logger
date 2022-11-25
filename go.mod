@@ -1,4 +1,4 @@
-module ssm2logger
+module github.com/matthewtoye/go-ssm2logger
 
 go 1.19
 

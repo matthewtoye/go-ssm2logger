@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	. "github.com/rgeyer/ssm2logger/ssm2lib"
+	. "github.com/matthewtoye/go-ssm2logger/ssm2lib"
 	"github.com/spf13/cobra"
 )
 
